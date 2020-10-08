@@ -1,0 +1,2 @@
+E:\project\c\c++book11\Debug\c++book11.exe
+E:\project\c\c++book11\Debug\c++book11.pdb
